@@ -1,0 +1,28 @@
+﻿  scs_project.cpp
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(201,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(228,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(239,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(241,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(241,70): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(262,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(290,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(303,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(307,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(332,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(344,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(346,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(346,70): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(367,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(395,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(408,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(412,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(437,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(449,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(451,31): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(451,70): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(471,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(498,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(511,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\scs_project\scs_project.cpp(515,27): warning C4018: '<': signed/unsigned mismatch
+  scs_project.vcxproj -> C:\Users\Mera\Documents\stick\facultate\an3_1\SCS\Lab\project\scs_project\x64\Debug\scs_project.exe

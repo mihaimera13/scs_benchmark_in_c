@@ -1,0 +1,28 @@
+Performance frequency: 10000000 counts/second
+Data size: 12000 bytes
+Writing to file duration: 11126 microseconds
+File writing frequency: 1.07855 bytes/microsecond
+
+
+File reading of bubblesort duration: 8724 microseconds
+Bubblesort data sorting duration: 5149 microseconds
+    Average per-thread duration: 1287 microseconds/thread
+Bubblesort merging duration: 69 microseconds
+Bubblesort duration: 31753 microseconds
+
+
+File reading of insertion sort duration: 9351 microseconds
+Insertion sort data sorting duration: 3324 microseconds 
+    Average per-thread duration: 831 microseconds/thread
+Insertion sort merging duration: 78 microseconds
+Insertion sort duration: 38779 microseconds
+
+
+File reading of selection sort duration: 11554 microseconds
+Selection sort data sorting duration: 6910 microseconds
+    Average per-thread duration: 1727 microseconds/thread
+Selection sort merging duration : 83 microseconds
+Selection sort duration: 48414 microseconds
+
+
+Full program duration: 133245 microseconds
